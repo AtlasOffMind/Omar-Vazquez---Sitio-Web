@@ -1,0 +1,99 @@
+Cliente: 
+    Omar Vázquez Sánchez, emprendedor social y ambiental, conocido como
+    "Sr. Sargazo".
+
+Proyecto:
+    Sitio web unificado que presente sus dos iniciativas (BlueGreen y 
+    Sargablock), su historia, sus alianzas y su impacto social y ambiental.
+
+Objetivo del sitio:
+    Posicionar a Omar como referente en economía circular y innovación 
+    social, facilitar alianzas estratégicas, atraer inversión/patrocinios y
+    documentar su legado.
+
+##Preguntas para entender sus necesidades reales
+    1- Objetivo principal: 
+         ¿El sitio es para conseguir aliados internacionales (como la 
+         franquicia en República Dominicana), para postular a fondos de
+         inversión de impacto, o para comunicar directamente a las comunidades 
+         beneficiadas?
+
+    2- Audiencia prioritaria: 
+         ¿A quién quiere llegar primero? ¿A gobiernos, a ONGs, a 
+         inversionistas, a medios de comunicación, o a las familias que podrían
+         recibir una casa?
+
+    3- Contenido futuro: 
+         ¿Planea documentar cada nueva donación de casa? ¿Quiere una sección de
+         blog con noticias y avances?
+
+    4- Gestión del sitio: 
+         ¿Quién actualizaría el contenido? ¿Necesita un panel de administración 
+         sencillo (CMS) o prefiere que el sitio sea estático y él te contacte 
+         para actualizaciones?
+
+    5- Identidad visual: 
+         ¿Tiene un logo para BlueGreen y Sargablock? ¿Hay colores o imágenes de
+         marca que quiera usar?q
+
+#Respuestas q ya me ha dado: 
+##Tipo de sitio q quiere:
+    Sitio web
+
+
+*buscar entender la vision de Omar
+
+Organizacion del proyecto:
+    1-  Preguntarle a Omar todas las cosas q hagan falta para atender a sus 
+        necesidades reales con la pagina:
+        - Objetivo y visión
+            *- ¿Qué te gustaría conseguir con esta página web?: 
+                Promoción comercial, reputación, visibilidad social, captación
+                de aliados o una combinación.
+            - ¿Quieres que la gente te conozca principalmente a ti, a tu 
+                empresa o a tus proyectos sociales?
+            - ¿Qué te gustaría que una persona pensara o hiciera después de 
+                visitar el sitio?
+        
+        - Empresas y modelo de negocio
+            - ¿Cómo se relacionan exactamente Blue Green y Sargablock?
+            - ¿Qué servicios o productos quieres promocionar actualmente?
+            *- ¿A qué público quieres llegar: clientes, constructoras, 
+            inversores,compradores de materiales, medios de comunicación,
+            instituciones o socios?
+        
+        - Trayectoria e impacto
+            - ¿Qué asociaciones, fundaciones, instituciones o colectivos han
+            colaborado contigo?
+            - ¿Qué proyectos y contribuciones consideras más importantes?
+            - ¿Qué cifras, documentos, fotografías y testimonios podemos 
+            utilizar para respaldarlos?
+            - ¿Cuál es el número actualizado de viviendas entregadas, qué otros 
+            proyectos sociales debemos incluir y qué documentación podemos
+            utilizar para respaldar esos resultados?
+
+        - Marca y comunicación
+            - ¿Ya tienes logotipos, colores, fotografías y materiales de marca 
+            que debamos respetar?
+            - ¿Qué tono quieres transmitir: institucional, empresarial, personal
+            o comunitario?
+            - ¿Necesitas una web en español, inglés o ambos idiomas?
+
+        - Operación y mantenimiento
+            - ¿Quién actualizará las noticias y los proyectos una vez publicada
+            la web?
+            - ¿Necesita formularios? ¿Qué información quieres recibir mediante
+            formularios y quién la atenderá?
+            - ¿Quién será propietario del dominio, alojamiento, cuentas y 
+            contenido?¿Hay una fecha objetivo?
+
+        - Materiales necesarios:
+            - datos y estadisticas reales de su producto, 
+            - la informacion q desea q se muestre de su empresa, producto, etc.
+            - imagenes q me permita utilizar dentro del sitio 
+            - paginas q tenga de referencia para darme ideas para el diseño, 
+            - necesito todas las redes sociales q tenga, para unirlas al sitio.
+              (si hay alguna q me falte)
+        
+        
+        
